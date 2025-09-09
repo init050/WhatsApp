@@ -27,7 +27,7 @@ To run this script, you'll need Python, pip, and Google Chrome.
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/init050/WhatsApp.git
     cd WhatsApp
     ```
 
